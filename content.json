@@ -1,8 +1,12 @@
-[
-  { "name": "RINGTA", "role": "Top Content Creator" },
-  { "name": "BUBLIK6241", "role": "Top Content Creator" },
-  { "name": "pineapple.juceismypookie", "role": "Content Creator" },
-  { "name": "suuwi2k", "role": "Content Creator" },
-  { "name": "mr_bloxy_god.5", "role": "Content Creator" },
-  { "name": "takeflighttofight", "role": "Content Creator" }
-]
+{
+  "top_creators": [
+    "RINGTA",
+    "BUBLIK6241"
+  ],
+  "creators": [
+    "pineapple.juceismypookie",
+    "suuwi2k",
+    "mr_bloxy_god.5",
+    "takeflighttofight"
+  ]
+}
