@@ -1,12 +1,26 @@
-{
-  "top_creators": [
-    "RINGTA",
-    "BUBLIK6241"
-  ],
-  "creators": [
-    "pineapple.juceismypookie",
-    "suuwi2k",
-    "mr_bloxy_god.5",
-    "takeflighttofight"
-  ]
-}
+[
+  {
+    "name": "RINGTA",
+    "role": "Top Creator"
+  },
+  {
+    "name": "BUBLIK6241",
+    "role": "Top Creator"
+  },
+  {
+    "name": "pineapple.juceismypookie",
+    "role": "Creator"
+  },
+  {
+    "name": "suuwi2k",
+    "role": "Creator"
+  },
+  {
+    "name": "mr_bloxy_god.5",
+    "role": "Creator"
+  },
+  {
+    "name": "takeflighttofight",
+    "role": "Creator"
+  }
+]
